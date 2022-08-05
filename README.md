@@ -1,9 +1,4 @@
-# Michael Kim Portfolio Website!
-
-# Project Title
-
-Simple overview of use/purpose.
-
+# Michael (Gue for legal name) Portfolio Website!
 ## Description
 
 An in-depth paragraph about your project and overview of use.
