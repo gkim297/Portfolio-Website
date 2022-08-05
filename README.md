@@ -1,8 +1,8 @@
 # Michael's Portfolio Website!
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+A simple portfolio website having features of introduction, project representations, resume pdf render, and contact lists.
 
 ## License
 
-This project is licensed under the [MIT] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
