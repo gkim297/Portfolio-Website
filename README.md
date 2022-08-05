@@ -1,4 +1,4 @@
-# Michael (Gue for legal name) Portfolio Website!
+# Michael's Portfolio Website!
 ## Description
 
 An in-depth paragraph about your project and overview of use.
