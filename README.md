@@ -1,7 +1,7 @@
 # Michael's Portfolio Website!
 ## Description
 
-A simple portfolio website featuring personal introduction, project representations, resume pdf render, and contact lists.
+A simple portfolio website featuring personal introduction, project representations, resume pdf render, and contact infos.
 
 ## License
 
